@@ -4,8 +4,7 @@
 [![Website](https://img.shields.io/website?label=ruchirabandara.com&style=for-the-badge&url=https%3A%2F%2Fruchirabandara.com)](https://ruchirabandara.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ruchira?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/RUCHIRA0BANDARA/follow?)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/ruchirabandara-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+
 
 
 ## I'm a Developer!!
@@ -43,7 +42,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -55,21 +54,7 @@
 <br />
 <br />
 
----
 
-### 📺 Latest YouTube Videos
-
-
-
-➡️ [more videos...](https://www.youtube.com/channel/UC-N0R8YtbU8kUoQ0gr4iXrg)
-
----
-
-
-
-➡️ [more blog posts...](https://ruchirabandara.com)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -87,7 +72,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Ruchira Bandara's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RuchiraHansanaBandara
+&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
